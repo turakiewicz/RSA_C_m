@@ -259,7 +259,7 @@ namespace WindowsFormApplication1 {
 			this->privateKey_groupBox->Size = System::Drawing::Size(217, 65);
 			this->privateKey_groupBox->TabIndex = 9;
 			this->privateKey_groupBox->TabStop = false;
-			this->privateKey_groupBox->Text = L"Public key";
+			this->privateKey_groupBox->Text = L"Private key";
 			// 
 			// d_label
 			// 
